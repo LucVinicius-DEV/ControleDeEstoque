@@ -1,0 +1,15 @@
+# Ignore arquivos compilados
+*.class
+
+# Ignore arquivos de configuração de IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
