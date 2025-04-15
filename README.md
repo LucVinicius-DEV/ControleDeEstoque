@@ -29,6 +29,7 @@ Permite o cadastro, atualização, exclusão e exibição de produtos, além do 
 
 ## 🖥️ Exemplo de uso
 
+```bash
 ===== CONTROLE DE ESTOQUE =====
 1. Cadastrar produto
 2. Listar produtos
